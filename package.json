@@ -1,0 +1,26 @@
+{
+  "name": "summoner_io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleDev0617/Summoner_IO.git"
+  },
+  "keywords": [
+    "Summoner.io"
+  ],
+  "author": "LittleDev0617",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleDev0617/Summoner_IO/issues"
+  },
+  "homepage": "https://github.com/LittleDev0617/Summoner_IO#readme"
+}
